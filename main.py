@@ -5,11 +5,11 @@ import pyautogui
 
 
 # criando menu principal personalizado com as opções de funções.
-print('-' * 56)
+print('-' * 55)
 print (f"{'NOME DA EMPRESA': >32}")
-print('-' * 56)
+print('-' * 55)
 print(f"{'MENU PRINCIPAL': ^48}")
-print('-'* 56)
+print('-'* 55)
 print('[ 1 ] - Entrada de NFS-e')
 print('[ 2 ] - Lançamento de Retenções NFS-e')
 print('[ 3 ] - Sair')
